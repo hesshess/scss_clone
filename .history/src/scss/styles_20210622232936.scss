@@ -13,7 +13,7 @@ body {
   grid-template-columns: 1.5fr 1.9fr 1.5fr;
   grid-template-rows: 1fr 5fr 1fr;
   gap: 1px;
-  & > *:not(script) {
+  & > * {
     background-color: white;
     display: flex;
     justify-content: center;
